@@ -6,3 +6,5 @@ This repo contains a poster about my work on an abstract interpretation module f
 1. You need to clone using the `--recursive` switch
 2. Navigate into `2324-wt/abstract-interpretation/interim`
 3. Just call `latexmk` on the `poster.tex` file
+
+Or you can just download the poster [here](https://github.com/LukasPietzschmann/abstract-interpretation-poster/files/14125546/poster.pdf) :)
